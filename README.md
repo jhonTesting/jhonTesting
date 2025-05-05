@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Jhon, QA Automation Tester
 
-<!--
-**jhonTesting/jhonTesting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Apasionado por las pruebas automatizadas y la mejora continua del software.  
+🧪 Experiencia en testing con Cypress, Playwright y Selenium.  
+📊 Habilidades en JavaScript, HTML, Java, Python, Git y herramientas de CI/CD.
 
-Here are some ideas to get you started:
+### 🛠️ Herramientas y tecnologías
+- Cypress | Playwright | Selenium
+- JavaScript | Node.js | Java | Python
+- Git | GitHub Actions 
+- Postman | REST APIs | SOAPUI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Proyectos destacados
+- ✅ Pruebas E2E con Cypress 
+- 🛒 Automatización Playwright 
+- 🔗 Pruebas de API con Postman 
+
+### 📫 Contáctame
+- 📧 (jhonagudelo2010yy@gmail.com)
+- 💼 (https://www.linkedin.com/in/jhoneduard/)
