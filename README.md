@@ -12,7 +12,7 @@
 📊 Habilidades en JavaScript, HTML, Java, Python, Git y herramientas de CI/CD.
 
 
-### 🧰Lenguajes y herramientas de desarrollo:
+### ⚙️Lenguajes y herramientas de desarrollo:
 <p align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B3aWZ5eno0dTI5Zm9scGxxc29xNnl1NGV6Njc1dGVlOWszbzRxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="30" height="30" alt="JavaScript"/>
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="30" height="30" alt="Java" />
@@ -23,7 +23,7 @@
   <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" width="30" height="30" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="30" height="30" alt="npm"  />
           
-### 🛠️ Frameworks de automatizacion utilizados
+### 🧰 Frameworks de automatizacion utilizados
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="30" height="30" alt="Cypress" />
   <img src="https://img.icons8.com/?size=100&id=38553&format=png&color=000000" width="30" height="30" alt="Selenium" />
@@ -38,7 +38,11 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="30" height="30" alt="Postman"/>
  </p>
           
-
+### 🧠 Intereses
+- Automatización E2E
+- Testing en CI/CD
+- Mejora continua
+- Aprender nuevas herramientas y frameworks
 
 ### 📁 Proyectos destacados
 - ✅ Pruebas E2E con Cypress 
